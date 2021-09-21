@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.AssemblyInfo.cs
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\ChatBot\bin\Debug\netcoreapp3.1\ChatBot.exe
+C:\Users\logan\source\repos\ChatBot\bin\Debug\netcoreapp3.1\ChatBot.deps.json
+C:\Users\logan\source\repos\ChatBot\bin\Debug\netcoreapp3.1\ChatBot.runtimeconfig.json
+C:\Users\logan\source\repos\ChatBot\bin\Debug\netcoreapp3.1\ChatBot.runtimeconfig.dev.json
+C:\Users\logan\source\repos\ChatBot\bin\Debug\netcoreapp3.1\ChatBot.dll
+C:\Users\logan\source\repos\ChatBot\bin\Debug\netcoreapp3.1\ChatBot.pdb
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.dll
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.pdb
+C:\Users\logan\source\repos\ChatBot\obj\Debug\netcoreapp3.1\ChatBot.genruntimeconfig.cache
